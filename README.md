@@ -1,1 +1,1 @@
-# practicum.yandex.ru
+# practicum.yandex
